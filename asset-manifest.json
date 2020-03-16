@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/FPL-Rank/static/js/main.000c8b65.chunk.js",
+    "main.js.map": "/FPL-Rank/static/js/main.000c8b65.chunk.js.map",
+    "runtime-main.js": "/FPL-Rank/static/js/runtime-main.d7ebabed.js",
+    "runtime-main.js.map": "/FPL-Rank/static/js/runtime-main.d7ebabed.js.map",
+    "static/css/2.de424728.chunk.css": "/FPL-Rank/static/css/2.de424728.chunk.css",
+    "static/js/2.3baad338.chunk.js": "/FPL-Rank/static/js/2.3baad338.chunk.js",
+    "static/js/2.3baad338.chunk.js.map": "/FPL-Rank/static/js/2.3baad338.chunk.js.map",
+    "index.html": "/FPL-Rank/index.html",
+    "precache-manifest.b25fed0764a9970a8d89175e9a913dcb.js": "/FPL-Rank/precache-manifest.b25fed0764a9970a8d89175e9a913dcb.js",
+    "service-worker.js": "/FPL-Rank/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/FPL-Rank/static/css/2.de424728.chunk.css.map",
+    "static/js/2.3baad338.chunk.js.LICENSE.txt": "/FPL-Rank/static/js/2.3baad338.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7ebabed.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.3baad338.chunk.js",
+    "static/js/main.000c8b65.chunk.js"
+  ]
+}
